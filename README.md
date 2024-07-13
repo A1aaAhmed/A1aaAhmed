@@ -1,5 +1,4 @@
-## Hi there 👋
-# I'm Alaa, a junior software developer fascinated by the magic of coding. Currently on the lookout for new challenges and opportunities to grow!
+# Hi there 👋 I'm Alaa, a junior software developer fascinated by the magic of coding. Currently on the lookout for new challenges and opportunities to grow!
 <!--
 **A1aaAhmed/A1aaAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
