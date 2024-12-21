@@ -19,3 +19,16 @@ document.querySelectorAll(".nav-link").forEach((link) => {
       console.error("Error loading particles", error);
     });
   });
+  function sendEmail(event) {
+    event.preventDefault(); // Prevent form submission
+
+    // Get email and message values
+    const email = document.getElementById('email_addr').value;
+    const message = document.getElementById('message').value;
+
+    // Construct the mailto link
+    const mailToLink = `mailto:alaaahmad20000@gmail.com?subject=New%20Message%20from%20${encodeURIComponent(email)}&body=${encodeURIComponent(message)}`;
+
+    // Open the mail client
+    window.location.href = mailToLink;
+}
